@@ -1,5 +1,5 @@
 FROM alpine:latest
-LABEL maintainer="https://github.com/onplus"
+LABEL maintainer="https://github.com/snioer"
 
 #ENV VER=v4.20.0
 
